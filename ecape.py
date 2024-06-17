@@ -1,1 +1,0 @@
-print('cape ni sai mai dee')
